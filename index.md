@@ -15,11 +15,17 @@ Here we want to contribute to aerospace-related projects, to develop better tech
 Currently, we have some teams that work on specific projects, they are:
 
 - **Rocket Team**: rocket science and technology projects.
-- **Fixed-Wing Team**: fixed-wing airplane technology projects. 
+- **Fixed-Wing Team**: fixed-wing airplane technology projects.
+- **Rotative-Wing Team**: helicopters, multirotors and more.
+- **Computation Team**: computational tools for multiple kind of aerospace problems.
+- **Spacecraft Team**: spacecreafts, satellites and more.
+- **Electronics Team**: radio, antennas, circuits, electric power and more.
+
 
 ## I want to contribute!
 
 Cool! As our projects are Open Source, the contribution is the right spirit!
+You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
 ### I want to contribute in a specific repository
 
