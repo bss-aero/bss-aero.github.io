@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/bss-aero/bss-aero.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the webpage for the Brazilian Student Society for Aerospace Research and Development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are aerospace students and researchers from Brazil who believes in the freedom of software and open-source code.
+Here we want to contribute to aerospace-related projects, to develop better technology for the future.
 
-### Markdown
+## Our Mission
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Foster Free (Libre) and Open Source Software projects in the aerospace field,
+> while creating a community of researchers, students, and anyone interested to contribute and share with those projects.
 
-```markdown
-Syntax highlighted code block
+## Teams
 
-# Header 1
-## Header 2
-### Header 3
+Currently, we have some teams that work on specific projects, they are:
 
-- Bulleted
-- List
+- **Rocket Team**: rocket science and technology projects.
+- **Fixed-Wing Team**: fixed-wing airplane technology projects. 
 
-1. Numbered
-2. List
+## I want to contribute!
 
-**Bold** and _Italic_ and `Code` text
+Cool! As our projects are Open Source, the contribution is the right spirit!
 
-[Link](url) and ![Image](src)
-```
+### I want to contribute in a specific repository
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As you can download and fork any repository, just do it!
 
-### Jekyll Themes
+If you want the changes you made goes to a `bss-aero` repository
+you can make a Pull Request (PR) and we will analyze what you have brought to the table.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bss-aero/bss-aero.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you are a member and has the right permissions you can develop into the repository
 
-### Support or Contact
+### I want to start a new open-source project
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Noice! We encourage this! If you need any help, you can get in touch with us.
+Starting a project can be a very personal thing in the beginning,
+so take your time to know what you want to achieve and what is the scope of your project.
+
+If you already have a defined idea of your project and want to start it on `bss-aero`,
+we suggest to check out Trello board [here](https://trello.com/bssaero), and get in touch.
+
+### I have a repository and want it to be fostered
+
+You can check out our Trello boards [here](https://trello.com/bssaero)
+to see in what team your project can be more fitted and get in touch with us.
+
+### I want to be part of it
+
+And we want you!
+And as we cannot just add anyone who asks because of permission security,
+the best way to get in is to start contributing to some projects,
+or get your project set in `bss-aero`.
+Then, after some time, you can be on our team.
+
+## Contact
+
+We're on GitHub as [bss-aero](https://github.com/bss-aero),
+but you can get in touch with [Victor Santos](https://zuckberj.page) too.
+
