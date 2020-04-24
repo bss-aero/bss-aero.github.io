@@ -2,7 +2,7 @@
 
 This is the website for the Brazilian Student Society for Aerospace Research and Development.
 
-We are aerospace students and researchers from Brazil who believes in the freedom of software and open-source code.
+We are engineering students and researchers from Brazil who believes in the _user freedom_, _open-source_ code and the _maker culture_.
 Here we want to contribute to aerospace-related projects, to develop better technology for the future.
 
 ## Our Mission
