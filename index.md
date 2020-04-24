@@ -7,8 +7,15 @@ Here we want to contribute to aerospace-related projects, to develop better tech
 
 ## Our Mission
 
-> Foster Free (Libre) and Open Source Software projects in the aerospace field,
+> Foster Free (Libre) and Open Source projects in the aerospace field,
 > while creating a community of researchers, students, and anyone interested to contribute and share with those projects.
+
+We are not limited to _software_ projects, but anything related to aerospace engineering, for example you can document the development of your CAD files for a drone, share it with the comunity, get feedback, contribute to others ideas etc.
+
+We want to be a more _maker_ community, so we encourage everyone to get handson the projects,
+as we believe that prototyping and testing is the _engineering_ way of going on.
+
+You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
 ## Teams
 
@@ -23,8 +30,7 @@ We have 6 teams that work on specific subjects, they are:
 
 ## I want to contribute!
 
-Cool! As our projects are Open Source, the contribution is the right spirit!
-You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
+Cool! As our projects are Open Source and Free (as in freedom), the contribution is the right spirit!
 
 We use some tools to help out our community, _Git_ is one of them.
 If you aren't familiar with _Git_ you should _really_ check out about it [here](https://guides.github.com/introduction/git-handbook/).
@@ -66,6 +72,13 @@ But as we cannot just make it fully open,
 the best way to get in is to start contributing to some projects,
 or get your project fostered in _bss-aero_.
 Then, after some time, you can be on our internal team.
+
+## I've saw an ideia here, can I use it?
+
+Short awnser: Yes, probably.
+
+Long awnser: You need to comply with the repository license, so you must read it.
+If you are insecure about it you can ask the repository maintainer.
 
 ## Contact
 
