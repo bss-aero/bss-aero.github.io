@@ -1,6 +1,6 @@
 ## Welcome!
 
-This is the webpage for the Brazilian Student Society for Aerospace Research and Development.
+This is the website for the Brazilian Student Society for Aerospace Research and Development.
 
 We are aerospace students and researchers from Brazil who believes in the freedom of software and open-source code.
 Here we want to contribute to aerospace-related projects, to develop better technology for the future.
@@ -19,21 +19,28 @@ We have 6 teams that work on specific subjects, they are:
 - **LTA Team**: lighter than air aircraft (i.e. ballons, airships).
 - **Rocket Team**: rocket science, technology and engineering projects.
 - **Rotorcraft Team**: helicopters, multirotors (drones) and more.
-- **Spacecraft Team**: spaceplanes, spacestations, satellites and more.
+- **Spacecraft Team**: spaceplanes, space stations, satellites and more.
 
 ## I want to contribute!
 
 Cool! As our projects are Open Source, the contribution is the right spirit!
 You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
-### I want to contribute in a specific repository
+We use some tools to help out our community, _Git_ is one of them.
+If you aren't familiar with _Git_ you should _really_ check out about it [here](https://guides.github.com/introduction/git-handbook/).
 
-As you can download and fork any repository, just do it!
+We use Trello to make our projects public, you can check it out [here](https://trello.com/bssaero).
 
-If you want the changes you made goes to a `bss-aero` repository
-you can make a Pull Request (PR) and we will analyze what you have brought to the table.
+### I want to contribute in a specific project
 
-If you are a member and has the right permissions you can develop into the repository
+As you can download and fork any repository of any project, just do it!
+
+If you want that your changes goes to a _bss-aero_ repository
+you can make a Pull Request (PR) and we will analyze what you have brought to the table
+(this isn't a big deal).
+
+If you are already a member and has the right team permissions
+you can develop with your team into the repository.
 
 ### I want to start a new open-source project
 
@@ -41,21 +48,24 @@ Noice! We encourage this! If you need any help, you can get in touch with us.
 Starting a project can be a very personal thing in the beginning,
 so take your time to know what you want to achieve and what is the scope of your project.
 
-If you already have a defined idea of your project and want to start it on `bss-aero`,
-we suggest to check out Trello board [here](https://trello.com/bssaero), and get in touch.
+If you already have a defined idea of your project and want to start it on _bss-aero_,
+we suggest to check out our Trello board.
 
-### I have a repository and want it to be fostered
+### I have a project and want it to be fostered or want some help
 
-You can check out our Trello boards [here](https://trello.com/bssaero)
-to see in what team your project can be more fitted and get in touch with us.
+We want to contribute!
+You can check out our Trello boards
+to see in what team your project can be more fitted,
+and get in touch with us.
 
 ### I want to be part of it
 
-And we want you!
-And as we cannot just add anyone who asks because of permission security,
+And we want you! To be clear, if you contribute in any form to some _bss-aero_ project,
+you already are part of it.
+But as we cannot just make it fully open,
 the best way to get in is to start contributing to some projects,
-or get your project set in `bss-aero`.
-Then, after some time, you can be on our team.
+or get your project fostered in _bss-aero_.
+Then, after some time, you can be on our internal team.
 
 ## Contact
 
