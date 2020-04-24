@@ -12,15 +12,14 @@ Here we want to contribute to aerospace-related projects, to develop better tech
 
 ## Teams
 
-Currently, we have some teams that work on specific projects, they are:
+We have 6 teams that work on specific subjects, they are:
 
-- **Rocket Team**: rocket science and technology projects.
-- **Fixed-Wing Team**: fixed-wing airplane technology projects.
-- **Rotative-Wing Team**: helicopters, multirotors and more.
-- **Computation Team**: computational tools for multiple kind of aerospace problems.
-- **Spacecraft Team**: spacecreafts, satellites and more.
-- **Electronics Team**: radio, antennas, circuits, electric power and more.
-
+- **Avionics & Computation Team**: avionics, analytics, UAV, computational tools, infraestructure and more.
+- **Fixed-Wing Team**: airplanes, gliders and more.
+- **LTA Team**: lighter than air aircraft (i.e. ballons, airships).
+- **Rocket Team**: rocket science, technology and engineering projects.
+- **Rotorcraft Team**: helicopters, multirotors (drones) and more.
+- **Spacecraft Team**: spaceplanes, spacestations, satellites and more.
 
 ## I want to contribute!
 
