@@ -3,7 +3,7 @@
 This is the website for the Brazilian Student Society for Aerospace Research and Development.
 
 We are engineering students and researchers from Brazil who believes in the _user freedom_, _open-source_ and the _maker culture_.
-Here we want to contribute to aerospace-related projects, to develop better technology for the future.
+Here we want to contribute to aerospace-related projects, to develop better and democratic technology for the future.
 
 ## Our Mission
 
@@ -12,7 +12,7 @@ Here we want to contribute to aerospace-related projects, to develop better tech
 
 We are not limited to _software_ projects, but anything related to aerospace engineering, for example you can document the development of your CAD files for a drone, share it with the comunity, get feedback, contribute to others ideas etc.
 
-We want to be a more _maker_ community, so we encourage everyone to get handson the projects,
+We want to be a more _maker_ community, so we encourage everyone to get hands-on,
 as we believe that prototyping and testing is the _engineering_ way of going on.
 
 You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
@@ -72,13 +72,6 @@ But as we cannot just make it fully open,
 the best way to get in is to start contributing to some projects,
 or get your project fostered in _bss-aero_.
 Then, after some time, you can be on our internal team.
-
-## I've saw an ideia here, can I use it?
-
-Short awnser: Yes, probably.
-
-Long awnser: You need to comply with the repository license, so you must read it.
-If you are insecure about it you can ask the repository maintainer.
 
 ## Contact
 
