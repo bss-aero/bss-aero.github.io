@@ -28,6 +28,25 @@ We have 6 teams that work on specific subjects, they are:
 - **Rotorcraft Team**: helicopters, multirotors (drones) and more.
 - **Spacecraft Team**: spaceplanes, space stations, satellites and more.
 
+## About Open Source and Free Software
+
+There are two visions (and definition) about free and open source software.
+
+One is about the _freedom_ of the software, as quoted from the
+[GNU Project website](https://www.gnu.org/philosophy/free-sw.html):
+> “Free software” means software that respects users' freedom and community.
+> Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.
+
+The other, more permisive vision, is about the _pratical_ advantages of Open Source, as quoted from the
+[Open Source Initiative website](https://opensource.org/docs/osd):
+> Open source enables a development method for software that harnesses the power
+> of distributed peer review and transparency of process.
+> The promise of open source is higher quality, better reliability,
+> greater flexibility, lower cost, and an end to predatory vendor lock-in.
+
+We can accept both of the views. It's more democratic, and sometimes excluding those who we don't agree
+can be a poor choice, especially when the parts has the same positive goal.
+
 ## I want to contribute!
 
 Cool! As our projects are Open Source and Free (as in freedom), the contribution is the right spirit!
