@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 
 This is the website for the Brazilian Student Society for Aerospace Research and Development.
 
