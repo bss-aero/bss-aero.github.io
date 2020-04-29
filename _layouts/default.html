@@ -29,7 +29,7 @@
     <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     
-    <link href="/fontawesome-free-5.13.0-web/css/fontawesome.css" rel="stylesheet">
+    <link href="/fontawesome-free-5.13.0-web/css/fontawesome.min.css" rel="stylesheet">
     <link href="/fontawesome-free-5.13.0-web/css/brands.min.css" rel="stylesheet">
     <!--link href="/fontawesome-free-5.13.0-web/css/solid.css" rel="stylesheet"--> 
     
@@ -57,7 +57,7 @@
       {{ content }}
 
       </section>
-      <footer>
+      <footer style="bottom: 20px;">
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
