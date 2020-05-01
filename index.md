@@ -1,5 +1,7 @@
 # Welcome!
 
+_DISCLAIMER: we are new, and many things are still in discussion and development, so eventually some changes will happen._
+
 This is the website for the Brazilian Student Society for Aerospace Research and Development.
 
 We are engineering students and researchers from Brazil who believe in _user freedom_, _open-source_, and the _maker culture_.
@@ -23,7 +25,7 @@ You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
 ## Teams
 
-We have 6 teams that work on specific subjects, they are:
+We have 6 teams that work on specific, but not exclusive, subjects, they are:
 
 - **Avionics & Computation Team**: avionics, analytics, UAV, computational tools, infrastructure, and more.
 - **Fixed-Wing Team**: airplanes, gliders, and more.
