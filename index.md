@@ -10,12 +10,14 @@ Here we want to contribute to aerospace-related projects, to develop better and 
 > Foster Free (Libre) and Open Source projects in the aerospace field,
 > while creating a community of researchers, students, and anyone interested to contribute and share with those projects.
 
-We are not limited to _software_ projects, but anything related to aerospace engineering, for example,
+Indeed, we're not limited to _software_ projects, but anything related to aerospace engineering, for example,
 you can document the development of your CAD files for a drone, share it with the community,
 get feedback, contribute to others' ideas, etc.
 
-We want to be a more _maker_ community, so we encourage everyone to get hands-on,
+We also want to be a more _maker_ community, so we encourage everyone to get hands-on,
 as we believe that prototyping and testing is the _engineering_ way of going on.
+We currently don't have an official physical place to prototype and make stuff, we depend on
+our universities and other institutions mostly free spaces, but who knows in the near/mid future?
 
 You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
