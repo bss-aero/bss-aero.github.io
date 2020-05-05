@@ -27,12 +27,12 @@ You can check out our main ideas on our _[Creation Manifesto](/manifesto.pdf)_.
 
 We have 6 teams that work on specific, but not exclusive, subjects, they are:
 
-- **Avionics & Computation Team**: avionics, analytics, UAV, computational tools, infrastructure, and more.
-- **Fixed-Wing Team**: airplanes, gliders, and more.
-- **LTA Team**: lighter than air aircraft (i.e. balloons, airships).
-- **Rocket Team**: rocket science, technology, and engineering projects.
-- **Rotorcraft Team**: helicopters, multi-rotors (drones), and more.
-- **Spacecraft Team**: spaceplanes, space stations, satellites, and more.
+- **Air Team**: airplanes, gliders, helicopters, multi-rotors (drones), and more.
+- **Computation Team**: avionics, analytics, UAV, computational tools, infrastructure, and more.
+- **Power Team**: motors, propellers, batteries, and more.
+- **Rocket Team**: rocket science and engineering projects.
+- **Space Team**: spaceplanes, space stations, satellites, and more.
+- **Unusual Team**: balloons, airships, bio, MAVs, and more.
 
 ## About Open Source and Free Software
 
@@ -81,22 +81,6 @@ so take your time to know what you want to achieve and what is the scope of your
 
 If you already have a defined idea of your project and want to start it on _bss-aero_,
 we suggest checking out our Trello board.
-
-### I have a project and want it to be fostered or want some help
-
-We want to contribute!
-You can check out our Trello boards
-to see in what team your project can be more fitted,
-and get in touch with us.
-
-### I want to be part of it
-
-And we want you! To be clear, if you contribute in any form to some _bss-aero_ project,
-you already are part of it.
-But as we cannot just make it fully open,
-the best way to get in is to start contributing to some projects
-or get your project fostered in _bss-aero_.
-Then, after some time, you can be on our internal team.
 
 ## Contact
 
